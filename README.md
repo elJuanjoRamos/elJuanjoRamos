@@ -1,8 +1,16 @@
 <p align="center">
   <a href="https://github.com/elJuanjoRamos" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=elJuanjoRamos&title_color=333&text_color=777" alt="Juan Jose's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=elJuanjoRamos&show_icons=true&theme=radical&count_private=true" alt="Juan Jose's Stats">
   </a>
 </p>
+<p>
+<p align="center">
+  <a href="https://github.com/elJuanjoRamos" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elJuanjoRamos&theme=radical&layout=compact" alt="Juan Jose's Stats">
+  </a>
+</p>
+<p>
+ <hr>
 <p align="center">
   <a href="https://dev.to/eljuanjoramos">
     <img src="https://svgur.com/i/TKs.svg" width="24px"/>
