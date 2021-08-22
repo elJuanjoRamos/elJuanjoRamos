@@ -8,11 +8,15 @@
   <a href="https://dev.to/eljuanjoramos">
     <img src="https://svgur.com/i/TKs.svg" width="24px"/>
   </a>
+  
   &emsp;
+  
   <a href= "https://instagram.com/eljuanjoramos">
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
   </a>
+  
   &emsp;
+  
   <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ramos-campos/">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
