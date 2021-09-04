@@ -26,16 +26,9 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/elJuanjoRamos/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
-  </a>
+  <img src="https://badges.pufler.dev/visits/elJuanjoRamos/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
+  <img src="https://badges.pufler.dev/years/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
+  <img src="https://badges.pufler.dev/repos/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
+  <img src="https://badges.pufler.dev/commits/monthly/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
+
 </p>
