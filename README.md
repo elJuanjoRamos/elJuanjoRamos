@@ -29,5 +29,5 @@
   <img src="https://badges.pufler.dev/visits/elJuanjoRamos/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
   <img src="https://badges.pufler.dev/years/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
   <img src="https://badges.pufler.dev/repos/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
-  <img src="https://badges.pufler.dev/commits/monthly/elJuanjoRamos?style=flat-square&color=black&logo=github&a=0">
+  <img src="https://badges.pufler.dev/commits/monthly/elJuanjoRamos?style=flat-square&count_private=true&color=black&logo=github&a=0">
 </p>
